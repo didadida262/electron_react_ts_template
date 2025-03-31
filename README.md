@@ -1,1 +1,1 @@
-react + tailwind + electron + tailwind 模板文件
+react + ts + electron + tailwind 模板项目
